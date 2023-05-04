@@ -7,10 +7,10 @@
 			"InterstitialAd": "max",
 			"NativeAd": "max",
 	      
-                        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-			"InterAdmob":  "ca-app-pub-3940256099942544/1033173712",
-			"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
-			"OpenAdmob":   "ca-app-pub-3940256099942544/3419835294",
+                        "BannerAdmob": "",
+			"InterAdmob":  "",
+			"NativeAdmob": "",
+			"OpenAdmob":   "",
 
 			"MaxBanner": "f6d466c27cf22377",
 			"MaxInter":  "1d87e5810eaa10be",
