@@ -3,8 +3,8 @@
     "AdsController": 
       {
 		  
-			"BannerAd": "max",
-			"InterstitialAd": "max",
+			"BannerAd": "unity",
+			"InterstitialAd": "unity",
 			"NativeAd": "max",
 	      
                         "BannerAdmob": "",
@@ -22,10 +22,10 @@
 	      
 	      		"ironsource_appKey": "1011dee21",
 		
-		"unity_game_id": "3883855",
-		"unity_test": true,
-		"unity_banner": "banner",
-		"unity_interstitial": "video",
+		"unity_game_id": "5277679",
+		"unity_test": false,
+		"unity_banner": "Ludo_Banner",
+		"unity_interstitial": "Ludo_Inter",
         		
         "Cpa": false,
         "ImageUrl" : "https://i.imgur.com/oWEjQGy.gif",
